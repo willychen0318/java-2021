@@ -1,2 +1,4 @@
+com/fju/Student.java
+ com.fju.Student
 com/fju/HelloWorld.java
  com.fju.HelloWorld
