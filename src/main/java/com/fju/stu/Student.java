@@ -1,4 +1,4 @@
-package com.fju;
+package com.fju.stu;
 
 public class Student {
 

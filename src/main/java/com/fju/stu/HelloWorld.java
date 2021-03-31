@@ -1,7 +1,4 @@
-package com.fju;
-
-import java.util.Scanner;
-import java.util.function.Consumer;
+package com.fju.stu;
 
 public class HelloWorld {
     public static void main(String[] args) {
