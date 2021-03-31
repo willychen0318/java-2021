@@ -29,3 +29,6 @@ public class HelloWorld {
         }
     }
 }
+//Gradle maybe have mistake about version problem,can check gradle file and
+//find gradle-wrapper.properties distributionUrl=https\://services.gradle.org/distributions/gradle-6.7-bin.zip
+//to change gradle version.
