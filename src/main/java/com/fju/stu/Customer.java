@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Customer {
     Scanner sc=new Scanner(System.in);
 
-    int CustomerId;//java should write constructor myself(getter and setter).
+    int CustomerId;//java should write constructor yourself(getter and setter).
     int Consumption;//push alt+insert can easy make constructor.
     int Discount;
 

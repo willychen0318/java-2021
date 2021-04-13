@@ -9,7 +9,7 @@ public abstract class Box {
         return (a <= length && b <= width && c <= height);
     }
 
-    public abstract String name();//abstract -> between interface(規範) and public
+    public abstract String name();//abstract -> between interface and public
 
     public abstract int price();
 }
