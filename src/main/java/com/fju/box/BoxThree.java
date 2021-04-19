@@ -8,7 +8,7 @@ public class BoxThree extends Box /*implements BoxInterface*/{
     }
 
     @Override
-    //abstract
+    //abstract class
     public String name() {
         return "Box 3";
     }
