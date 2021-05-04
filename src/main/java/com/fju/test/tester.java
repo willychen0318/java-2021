@@ -7,6 +7,9 @@ public class tester {
         //leftBox2 <=> rightBox2() but in this array ,Box[] not equal to Box1(), Box2(),.....
         //Because in java,parent's datatype can equal to child's datatype(int, double.....)
         //This is java polymorphism.
+        //Ex.Box box= new Box();[O]
+        //   Box box= new Box1();[O]
+        //   Box1 box= new Box();[X]
         Box[] boxes={new Box1(), new Box2(), new Box3(), new Box4(), new Box5(), new Box6()};
         int length=7;
         int width=5;
