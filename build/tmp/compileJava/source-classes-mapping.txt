@@ -8,8 +8,8 @@ com/fju/test/Box6.java
  com.fju.test.Box6
 com/fju/stu/Student.java
  com.fju.stu.Student
-com/fju/cust/CustomerTester.java
- com.fju.cust.CustomerTester
+com/fju/test/tester.java
+ com.fju.test.tester
 com/fju/test/Box3.java
  com.fju.test.Box3
 com/fju/box/BoxInterface.java
@@ -28,6 +28,8 @@ com/fju/cust/SilverCustomer.java
  com.fju.cust.SilverCustomer
 com/fju/stu/HelloWorld.java
  com.fju.stu.HelloWorld
+com/fju/cust/CustomerTester.java
+ com.fju.cust.CustomerTester
 com/fju/box/Box.java
  com.fju.box.Box
 com/fju/box/BoxTester.java
@@ -38,5 +40,5 @@ com/fju/box/BoxThree.java
  com.fju.box.BoxThree
 com/fju/test/Box1.java
  com.fju.test.Box1
-com/fju/test/tester.java
- com.fju.test.tester
+com/fju/collection/ListTester.java
+ com.fju.collection.ListTester
