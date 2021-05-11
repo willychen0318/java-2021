@@ -40,5 +40,15 @@ com/fju/box/BoxThree.java
  com.fju.box.BoxThree
 com/fju/test/Box1.java
  com.fju.test.Box1
+com/fju/inter/Reporter.java
+ com.fju.inter.Reporter
 com/fju/collection/ListTester.java
  com.fju.collection.ListTester
+com/fju/inter/WeatherReporter.java
+ com.fju.inter.WeatherReporter
+com/fju/inter/Tester.java
+ com.fju.inter.Tester
+ com.fju.inter.Tester$1
+ com.fju.inter.Tester$2
+com/fju/inter/ConstellationReporter.java
+ com.fju.inter.ConstellationReporter
