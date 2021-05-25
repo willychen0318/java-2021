@@ -1,8 +1,8 @@
 package com.fju.collection;
 
-import com.fju.test.Box;
-import com.fju.test.Box1;
-import com.fju.test.Box2;
+import com.fju.testbetterbox.Box;
+import com.fju.testbetterbox.Box1;
+import com.fju.testbetterbox.Box2;
 
 import java.util.ArrayList;
 import java.util.TreeSet;

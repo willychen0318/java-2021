@@ -14,6 +14,7 @@ public class BoxTester {
         System.out.println("Please enter object\'s height: ");
         int height=Integer.parseInt(scanner.next());
         System.out.println("Length: " + length + ", width: " + width + ", height: " + height);
+
         if (box3.validate(length, width, height)) {
             System.out.println(box3.name());
         }

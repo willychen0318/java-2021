@@ -1,4 +1,4 @@
-package com.fju.test;
+package com.fju.testbetterbox;
 
 public class Box2 extends Box{
     public Box2(){

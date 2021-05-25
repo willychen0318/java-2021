@@ -1,54 +1,58 @@
 com/fju/racing/Racing.java
  com.fju.racing.Racing
-com/fju/stu/Customer.java
- com.fju.stu.Customer
-com/fju/test/Box2.java
- com.fju.test.Box2
-com/fju/test/Box6.java
- com.fju.test.Box6
-com/fju/stu/Student.java
- com.fju.stu.Student
-com/fju/test/tester.java
- com.fju.test.tester
-com/fju/test/Box3.java
- com.fju.test.Box3
-com/fju/box/BoxInterface.java
- com.fju.box.BoxInterface
+com/fju/testbetterbox/Box3.java
+ com.fju.testbetterbox.Box3
+com/fju/testbetterbox/tester.java
+ com.fju.testbetterbox.tester
+com/fju/testbetterbox/Box6.java
+ com.fju.testbetterbox.Box6
 com/fju/racing/HorseRunnable.java
  com.fju.racing.HorseRunnable
-com/fju/test/Box5.java
- com.fju.test.Box5
-com/fju/test/Box4.java
- com.fju.test.Box4
+com/fju/inter/Reporter.java
+ com.fju.inter.Reporter
 com/fju/racing/Horse.java
  com.fju.racing.Horse
-com/fju/test/Box.java
- com.fju.test.Box
 com/fju/cust/SilverCustomer.java
  com.fju.cust.SilverCustomer
-com/fju/stu/HelloWorld.java
- com.fju.stu.HelloWorld
-com/fju/cust/CustomerTester.java
- com.fju.cust.CustomerTester
+com/fju/inter/WeatherReporter.java
+ com.fju.inter.WeatherReporter
+com/fju/cust/Customer.java
+ com.fju.cust.Customer
+com/fju/testbetterbox/Box2.java
+ com.fju.testbetterbox.Box2
 com/fju/box/Box.java
  com.fju.box.Box
 com/fju/box/BoxTester.java
  com.fju.box.BoxTester
-com/fju/cust/Customer.java
- com.fju.cust.Customer
+com/fju/testbetterbox/Box4.java
+ com.fju.testbetterbox.Box4
 com/fju/box/BoxThree.java
  com.fju.box.BoxThree
-com/fju/test/Box1.java
- com.fju.test.Box1
-com/fju/inter/Reporter.java
- com.fju.inter.Reporter
-com/fju/collection/ListTester.java
- com.fju.collection.ListTester
-com/fju/inter/WeatherReporter.java
- com.fju.inter.WeatherReporter
+com/fju/inter/ConstellationReporter.java
+ com.fju.inter.ConstellationReporter
+com/fju/cust/CustomerTester.java
+ com.fju.cust.CustomerTester
+com/fju/stu/Customer.java
+ com.fju.stu.Customer
+com/fju/stu/Student.java
+ com.fju.stu.Student
+com/fju/testbetterbox/Box.java
+ com.fju.testbetterbox.Box
+com/fju/testbetterbox/Box5.java
+ com.fju.testbetterbox.Box5
+com/fju/box/BoxInterface.java
+ com.fju.box.BoxInterface
 com/fju/inter/Tester.java
  com.fju.inter.Tester
  com.fju.inter.Tester$1
  com.fju.inter.Tester$2
-com/fju/inter/ConstellationReporter.java
- com.fju.inter.ConstellationReporter
+com/fju/testbetterbox/Box1.java
+ com.fju.testbetterbox.Box1
+com/fju/stu/HelloWorld.java
+ com.fju.stu.HelloWorld
+com/fju/collection/ListTester.java
+ com.fju.collection.ListTester
+com/fju/car/Car.java
+ com.fju.car.Car
+com/fju/car/Tester.java
+ com.fju.car.Tester
